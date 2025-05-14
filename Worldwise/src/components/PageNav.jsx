@@ -23,6 +23,3 @@ function PageNav() {
 }
 
 export default PageNav
-
-/* <li>
-                </li> */
